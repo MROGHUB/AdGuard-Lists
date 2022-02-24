@@ -1,0 +1,142 @@
+
+AdGuard DNS filter
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+44,880
+February 22, 2022, 22:45
+
+AdAway Default Blocklist
+https://adaway.org/hosts.txt
+7,026
+February 22, 2022, 22:45
+
+Dan Pollock's List
+https://someonewhocares.org/hosts/zero/hosts
+10,357
+February 22, 2022, 22:45
+
+Perflyst and Dandelion Sprout's Smart-TV Blocklist
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt
+154
+February 22, 2022, 22:45
+
+NoCoin Filter List
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+696
+February 22, 2022, 22:45
+
+Game Console Adblock List
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
+11
+February 22, 2022, 22:45
+
+Dandelion Sprout's Anti-Malware List
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+6,766
+February 22, 2022, 22:45
+
+Peter Lowe's List
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+3,671
+February 22, 2022, 22:45
+
+Scam Blocklist by DurableNapkin
+https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
+412
+February 22, 2022, 22:45
+
+The Big List of Hacked Malware Web Sites
+https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
+13,822
+February 22, 2022, 22:45
+
+
+Online Malicious URL Blocklist
+https://curben.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt
+5,371
+February 22, 2022, 22:45
+
+WindowsSpyBlocker - Hosts spy rules
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+378
+February 22, 2022, 22:45
+
+OISD Adblocker Syntax Domains
+https://abp.oisd.nl/
+290,663
+February 22, 2022, 22:45
+
+OISD Domains
+https://dbl.oisd.nl/
+1,073,647
+February 22, 2022, 22:45
+
+OISD Domains Wildcards
+https://dblw.oisd.nl/
+290,663
+February 22, 2022, 22:45
+
+OISD DNSMasq
+https://dnsmasq.oisd.nl/
+290,663
+February 22, 2022, 22:45
+
+OISD Response Policy Zone
+https://rpz.oisd.nl/
+581,341
+February 22, 2022, 22:45
+
+HBlock Hosts
+https://hblock.molinero.dev/hosts
+204,218
+February 22, 2022, 22:45
+
+HBlock Hosts Adblock
+https://hblock.molinero.dev/hosts_adblock.txt
+204,209
+February 22, 2022, 22:45
+
+HBlock Hosts Dnsmaq
+https://hblock.molinero.dev/hosts_dnsmasq.conf
+151,565
+February 22, 2022, 22:45
+
+
+HBlock Hosts Domains
+https://hblock.molinero.dev/hosts_domains.txt
+204,209
+February 22, 2022, 22:45
+
+HBlock Hosts Rpz
+https://hblock.molinero.dev/hosts_rpz.txt
+204,218
+February 22, 2022, 22:45
+
+HBlock Unbound
+https://hblock.molinero.dev/hosts_unbound.conf
+151,565
+February 22, 2022, 22:45
+
+HBlock Hosts Windows
+https://hblock.molinero.dev/hosts_windows.ps1
+204,227
+February 22, 2022, 22:45
+
+HBlock Abused Suffixes
+https://hblock.molinero.dev/most_abused_suffixes.txt
+1,401
+February 22, 2022, 22:45
+
+HBlock Abused Tlds
+https://hblock.molinero.dev/most_abused_tlds.txt
+699
+February 22, 2022, 22:45
+
+Developer Dan Ads Tracking
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+406,718
+February 22, 2022, 22:45
+
+OISD Hosts
+https://hosts.oisd.nl/
+1,073,647
+February 22, 2022, 22:45
